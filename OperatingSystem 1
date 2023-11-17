@@ -1,0 +1,25 @@
+Operating system concepts for students: Udemy course.
+----------------------------------------------------------------
+1] What is process?
+  A program under execution is a process
+  a sourse code is compiled -> turns to executable code ->stores into a secondary memory will be loaded into primary memory then to cpu.
+2] Process state
+  * New - INitial state
+  * Ready - process is waiting in a queue to be assigned to a process
+  * Terminated - once finished its execution 
+  * Running - process state is set to running and the process executoon its instruction
+  * Waiting - process is waiting for some event to occur.
+3] Process control block (PCB)
+  PCB is data structure
+  Each process representation by a PCB
+  Proteccted from normal user access
+like an ID 
+for every single process
+PROCESS ID
+PROCESS STATE
+PRIORITY
+PROGRAM COUNTER -  Address of nexy inst
+GENERAL PURPOSE REGISTERS
+CPU SCHUDLING INGO
+LIST OF FILES
+LIST 
